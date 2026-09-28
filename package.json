@@ -1,0 +1,8 @@
+{
+  "name": "@openrock/networking",
+  "version": "1.0.0",
+  "description": "A scriptevent-based request/response API over Bedrock's real scriptevent mechanism, with chunking for payloads over the real scriptevent size limit and a timeout-based request() helper.",
+  "license": "MPL-2.0",
+  "private": true,
+  "main": "src/register.js"
+}
